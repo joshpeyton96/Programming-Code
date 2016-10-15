@@ -1,2 +1,2 @@
-# C-Code
-This repository includes my C programming code from year 1 in college
+# Programming-Code
+This repository includes my programming code from college.
